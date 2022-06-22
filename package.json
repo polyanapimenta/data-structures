@@ -1,0 +1,28 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Algoritms and Data Structures with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polyanapimenta/data-structures.git"
+  },
+  "keywords": [],
+  "author": "https://www.linkedin.com/in/polyanapimenta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polyanapimenta/data-structures/issues"
+  },
+  "homepage": "https://github.com/polyanapimenta/data-structures#readme",
+  "devDependencies": {
+    "@swc/core": "^1.2.204",
+    "@swc/jest": "^0.2.21",
+    "@types/jest": "^28.1.3",
+    "jest": "^28.1.1",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.4"
+  }
+}
